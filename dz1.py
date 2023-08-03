@@ -1,6 +1,6 @@
 a = str(input())
 b = a[::-1]
 if a == b:
-    print('Это палиндром')
+    print('True')
 else:
-    print('Облом')
+    print('False')
